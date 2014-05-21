@@ -35,6 +35,10 @@
     background-position: -23px -45px;
 }
 
+.xanrias {
+    background: url("../image/xanrias.jpg");
+}
+
 h1 {
     font-weight: 100;
 }
