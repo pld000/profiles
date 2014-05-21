@@ -15,6 +15,11 @@
     background-position: -33px -10px;
 }
 
+.gueessa {
+    background: url("../image/gueessa.jpg");
+    background-position: -160px -80px;
+}
+
 h1 {
     font-weight: 100;
 }
