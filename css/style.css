@@ -10,6 +10,11 @@
     background-position: -33px -10px;
 }
 
+.virtustilus {
+    background: url("../image/virtustilus_320.jpg");
+    background-position: -11px -92px;
+}
+
 .natali {
     background: url("../image/photo.jpg");
     background-position: -33px -10px;
@@ -36,4 +41,8 @@ h2 {
 
 .page-gap {
     margin-top: 50px;
+}
+
+.private-projects li{
+    margin-bottom: 10px;
 }
