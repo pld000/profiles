@@ -5,6 +5,11 @@
     border: 1px solid #777;
 }
 
+.countzero {
+  background: url("../image/1.jpg");
+  background-position: -33px -10px;
+}
+
 .alex {
     background: url("../image/44761313SRC.jpg");
     background-position: -33px -10px;
